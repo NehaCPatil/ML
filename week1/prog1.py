@@ -10,5 +10,6 @@ try:
          print(lname, fname)
     else:
         raise TypeError
+
 except TypeError:
     print("Letter only Please")
