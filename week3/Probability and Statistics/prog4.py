@@ -63,6 +63,7 @@ class Least(Probability):
     def __init__(self):
         super(Least, self).__init__()
 
+   
     def display(self):
         at_least_one = obj1.at_least_one(self.sample, self.len_sample)
         at_least_two = obj1.at_least_two(self.sample, self.len_sample)
