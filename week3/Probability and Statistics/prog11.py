@@ -11,6 +11,7 @@ class Radar:
         self.area = 1
         self.z_area = 0.8413
 
+    
     def radar_prob(self):
         z_val = (self.sample - self.mean) / self.sd
         print("\n Z Value", z_val)
