@@ -13,6 +13,7 @@ class Random:
         print("random number is ", num)
         obj.display(num)
 
+    
     def display(self, num):
         print("probability of getting a random number", num, " =", self.possibility/self.rangediff)
 
