@@ -22,5 +22,6 @@ obj1 = Utility1()
 # object of subclass
 
 obj = Multiplication()
+
 # call method
 obj.call()
