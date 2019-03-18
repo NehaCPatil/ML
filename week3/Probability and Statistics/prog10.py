@@ -57,6 +57,7 @@ print("\n1.  P(x < 40)  \n ""2.  P(x > 21)  \n ""3.  P(30 < x < 35) \n""4. EXIT 
 while 1:
     try:
 
+        
         ch = input("\n Enter choice")
 
         choice = int(ch)
