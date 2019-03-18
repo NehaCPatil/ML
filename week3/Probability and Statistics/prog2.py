@@ -22,6 +22,7 @@ class Probability:
         ace_probability_percent = king_prob * 100
 
         print("\n ace_probability_percent: ")
+        
         print(str(round(ace_probability_percent, 0)) + '%')
 
 
