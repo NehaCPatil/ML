@@ -14,6 +14,7 @@ class Cancer:
         self.true_positive = 0.9
         self.false_positive = 0.08
 
+    
     def display(self):
         object1.probability_cancer(self.true_positive, self.breast_cancer, self.false_positive, self.No_breast_cancer)
 
