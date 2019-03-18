@@ -32,6 +32,7 @@ def correlationCoefficient(X, Y, n):
 
         i = i + 1
 
+    
     # use formula for calculating correlation
     # coefficient.
     corr = float(n * sum_XY - sum_X * sum_Y) / float(
