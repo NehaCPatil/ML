@@ -1,3 +1,5 @@
+"""5. Write a program to find inverse matrix of matrix X in problem 1 """
+
 class Matrix:
     # Setter
     def __set__(self, matrix_passed):
