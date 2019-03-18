@@ -5,6 +5,7 @@ import math
 
 
 class Bank:
+    
     def __init__(self):
         self.sample = 50
         self. mean = 2
