@@ -66,6 +66,7 @@ class Utility1:
         probability = not_rainy * not_rainy_with_Traffic * not_rainy_with_Traffic_Nolate
         return probability
 
+    
     def probability_cancer(self, true_positive, breast_cancer, false_positive, No_breast_cancer):
         print((true_positive * breast_cancer) / ((true_positive * breast_cancer)
                                                  + (false_positive * No_breast_cancer)))
