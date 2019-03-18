@@ -8,6 +8,7 @@ class ProbPainPills:
     # declare Global Variables
 
     # P(A)-> 10% of patients are prescribed narcotic pain killers
+   
     pain_killers = 0.1
     # P(B)->five percent of the clinic’s patients are addicted to narcotics
     addicted = 0.05
