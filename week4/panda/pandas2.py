@@ -40,6 +40,7 @@ class PandaPrograms:
                     """11. Write a Python program to count the number of rows and columns of a DataFrame. """
                     self.utility_obj.number_of_rows_and_columns()
 
+                
                 elif choice == 2:
                     """12. Write a Python program to select the rows where the score is missing,"""
 
