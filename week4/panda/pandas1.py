@@ -69,6 +69,7 @@ class PandaPrograms:
                     data1 = self.utility_obj.series_data(num)
                     print(data)
 
+                    
                     my_data = self.utility_obj.operation_on_series(data, data1)
 
 
