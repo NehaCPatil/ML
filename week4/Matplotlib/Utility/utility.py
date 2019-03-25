@@ -5,6 +5,7 @@ class UtilityClass:
         n = int(input("enter how many values u wanna plot"))
         return n
 
+    
     def CreateList(self, size):
         lst = []
         for i in range(size):
