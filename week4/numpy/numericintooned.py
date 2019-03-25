@@ -3,6 +3,7 @@ from week4.numpy.Utility.util import Utility
 
 
 # class
+
 class Numpy:
 
     # constructor
