@@ -3,6 +3,7 @@ import numpy as np
 
 
 class Utility:
+    
     def __init__(self):
         self.exam_data = {
             'name': ['Anastasia', 'Dima', 'Katherine', 'James', 'Emily', 'Michael', 'Matthew', 'Laura', 'Kevin',
