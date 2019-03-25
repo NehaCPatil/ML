@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 
+
 # class to perform graphical representation of data using mat plot lib
 
 class ChartGoldMedal:
