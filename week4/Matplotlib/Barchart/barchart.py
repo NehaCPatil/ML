@@ -38,6 +38,7 @@ class BarGraph:
 
                 print("list Elements:", empty_list)
                 return empty_list
+            
             else:
                 raise ValueError
         except ValueError:
