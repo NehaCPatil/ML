@@ -14,6 +14,7 @@ class Utilclass:
     def draw_scatter_plot(self, x_axis, y_axis):
         X = randn(x_axis)
         Y = randn(y_axis)
+        
         """ 
      Cartesian coordinates to display values for typically two variables for a set of data (x, y).
      If the points are color-coded, one additional variable can be displayed (color = 'r')"""
