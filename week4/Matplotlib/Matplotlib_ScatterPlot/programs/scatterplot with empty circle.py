@@ -41,6 +41,6 @@ class ScatterPlotEmptyCircle:
                 print(e)
 
 
-# instantiation
+# class object
 ScatterPlotEmptyCircle_object = ScatterPlotEmptyCircle()
 ScatterPlotEmptyCircle_object.scatter_plots()
