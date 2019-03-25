@@ -9,6 +9,7 @@ class PandaPrograms:
     def __init__(self):
         self.utility_obj = Utility()
 
+    
     print("1. Write a program to draw bar plot of sex against survived for a dataset given in the url ")
     print("2. Write a program to draw a point plot for sex against survived for a data set given in url ")
     print("3. program to draw a scatter plot of “day” against “total bill” for a data set given in a url.")
