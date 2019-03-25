@@ -6,6 +6,7 @@ def validate_num(num):
         return False
 
 
+
 # creating list for all types and len > 2
 def create_list_all(element):
     li = []
