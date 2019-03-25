@@ -1,6 +1,5 @@
 import numpy as np
 
-
 def validate_num(num):
     try:
         int(num)
