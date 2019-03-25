@@ -8,6 +8,7 @@ a b c d e
 8 2,6,4,8,6
 10 2,4,3,3,2
 
+
 12. Write a Python program to create bar plots with error bars on the same figure. Sample Date
 Mean velocity: 0.2474, 0.1235, 0.1737, 0.1824
 Standard deviation of velocity: 0.3314, 0.2278, 0.2836, 0.2645
