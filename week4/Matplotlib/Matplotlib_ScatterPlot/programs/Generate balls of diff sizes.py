@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 import random
 import math
 
-
 # class to perform graphical representation of data using matplotlib pie chart
 class GenerateBallsOfDifferentSizes:
     choice = 0
