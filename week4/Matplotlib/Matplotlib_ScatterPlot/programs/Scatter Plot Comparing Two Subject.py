@@ -46,6 +46,6 @@ class ScatterPlotCompareTwoSubject:
                 print(e)
 
 
-# instantiation
+# class object
 ScatterPlotCompareTwoSubject_obj = ScatterPlotCompareTwoSubject()
 ScatterPlotCompareTwoSubject_obj.scatter_plots()
