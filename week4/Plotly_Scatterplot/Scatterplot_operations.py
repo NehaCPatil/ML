@@ -66,6 +66,7 @@ class Matplotlib:
                     else:
                         print("Plz enter valid choice: ")
 
+                    
                     acc = str(input("IF you want to continue: type yes "))
                     if re.match(acc, 'y'):
                         continue
