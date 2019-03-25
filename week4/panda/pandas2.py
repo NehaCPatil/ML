@@ -85,6 +85,7 @@ class PandaPrograms:
 
                     self.utility_obj.replace_qualify_column_values()
 
+                
                 elif choice == 10:
 
                     """20. Write a Python program to delete the 'attempts' column from the DataFrame. """
