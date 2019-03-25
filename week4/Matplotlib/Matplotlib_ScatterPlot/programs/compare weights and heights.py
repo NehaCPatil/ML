@@ -50,6 +50,6 @@ class CompareWeightsAndHeights:
                 print(e)
 
 
-# instantiation
+# class object
 CompareWeightsAndHeights_obj = CompareWeightsAndHeights()
 CompareWeightsAndHeights_obj.scatter_plots()
