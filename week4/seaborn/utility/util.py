@@ -5,6 +5,7 @@ import seaborn as sb
 
 from matplotlib import pyplot as plt
 
+
 class Utility:
 
     # function for bar plot
