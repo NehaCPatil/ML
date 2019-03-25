@@ -16,6 +16,7 @@ class Array:
 
     # display common element
 
+    
     def display_common(self):
         # call method
         self.object1.common_value_array()
