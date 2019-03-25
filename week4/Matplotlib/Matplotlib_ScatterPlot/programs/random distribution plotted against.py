@@ -53,6 +53,6 @@ class RandomDistributionXY:
                 print(e)
 
 
-# instantiation
+# class object 
 RandomDistributionXY_object = RandomDistributionXY()
 RandomDistributionXY_object.scatter_plots()
