@@ -10,6 +10,7 @@ class Utility:
 
     # function for bar plot
 
+    
     def bar_plot(self):
 
         # load required data set
