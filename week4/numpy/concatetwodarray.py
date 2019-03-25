@@ -10,6 +10,7 @@ class Array:
     def __init__(self):
         self.obj = Utility()
 
+    
     # function for display concatenate array
 
     def display_concatenate(self):
