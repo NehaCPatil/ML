@@ -49,6 +49,7 @@ class ChartByLanguagePopularity(Utility):
                 print(e)
 
 
-# instantiation
+
+# class object
 ChartByLanguagePopularity_object = ChartByLanguagePopularity()
 ChartByLanguagePopularity_object.line_plotting()
