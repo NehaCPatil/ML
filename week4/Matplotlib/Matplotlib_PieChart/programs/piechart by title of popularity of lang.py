@@ -65,7 +65,7 @@ class ChartByTitlePopularity:
                 print(e)
 
 
-# instantiation
+# class object
 
 ChartByTitlePopularity_object = ChartByTitlePopularity()
 
